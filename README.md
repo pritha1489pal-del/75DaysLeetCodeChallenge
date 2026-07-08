@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0283-move-zeroes](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
