@@ -4,13 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-class Solution(object):
-    def searchBST(self, root, val):
-        """
-        :type root: Optional[TreeNode]
-        :type val: int
-        :rtype: Optional[TreeNode]
-        """
+class Solution:
     def searchBST(self, root, val):
         while root:
             if root.val == val:
