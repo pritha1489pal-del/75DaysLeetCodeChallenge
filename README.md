@@ -52,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
