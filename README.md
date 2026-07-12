@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 ## Dynamic Programming
 |  |
