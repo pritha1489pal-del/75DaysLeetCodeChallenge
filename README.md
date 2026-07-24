@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 ## Stack
 |  |
 | ------- |
