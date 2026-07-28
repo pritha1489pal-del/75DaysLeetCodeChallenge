@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1732-find-the-highest-altitude](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
 | ------- |
