@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -78,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
