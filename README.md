@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
+| [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
+| [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
@@ -134,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
