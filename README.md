@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 ## Trie
 |  |
