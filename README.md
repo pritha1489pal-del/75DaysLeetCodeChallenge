@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1470-shuffle-the-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0450-delete-node-in-a-bst](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0700-search-in-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
 ## Stack
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
