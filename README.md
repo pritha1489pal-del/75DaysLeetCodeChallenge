@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1207-unique-number-of-occurrences](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Counting
 |  |
