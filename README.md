@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0784-letter-case-permutation](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
