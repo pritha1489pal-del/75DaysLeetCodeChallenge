@@ -33,7 +33,6 @@ class Solution {
             int d1 = row - col + board.length - 1;
             int d2 = row + col;
 
-            // Check if position is safe
             if (cols[col] || diag1[d1] || diag2[d2]) {
                 continue;
             }
@@ -43,7 +42,7 @@ class Solution {
             cols[col] = true;
             diag1[d1] = true;
             diag2[d2] = true;
-            //next row
+
             backtrack(board, row + 1, cols, diag1, diag2);
             board[row][col] = '.';
             cols[col] = false;
