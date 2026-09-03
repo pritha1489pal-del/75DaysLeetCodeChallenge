@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 ## Two Pointers
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
 | [0784-letter-case-permutation](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0784-letter-case-permutation](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
