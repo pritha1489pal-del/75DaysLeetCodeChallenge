@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
