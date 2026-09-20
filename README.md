@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0933-number-of-recent-calls](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
