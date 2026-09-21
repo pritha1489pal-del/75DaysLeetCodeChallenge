@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0485-max-consecutive-ones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0523-continuous-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
@@ -301,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
