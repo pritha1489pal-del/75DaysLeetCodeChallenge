@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
