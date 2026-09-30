@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
