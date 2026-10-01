@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0142-linked-list-cycle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0024-swap-nodes-in-pairs) |
+| [0142-linked-list-cycle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -332,4 +335,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
