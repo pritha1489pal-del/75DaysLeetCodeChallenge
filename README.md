@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0127-word-ladder](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
@@ -297,10 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 ## Newton's Method
 |  |
 | ------- |
@@ -351,4 +357,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
