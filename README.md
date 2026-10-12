@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0403-frog-jump](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
 | [0485-max-consecutive-ones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0525-contiguous-array) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
+| [0403-frog-jump](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Linked List
 |  |
