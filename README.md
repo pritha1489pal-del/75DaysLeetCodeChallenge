@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
+| [0119-pascals-triangle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0119-pascals-triangle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
