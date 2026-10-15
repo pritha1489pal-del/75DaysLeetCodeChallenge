@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0119-pascals-triangle-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
@@ -378,4 +380,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
