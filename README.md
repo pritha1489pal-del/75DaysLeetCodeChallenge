@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1695-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Counting
 |  |
 | ------- |
