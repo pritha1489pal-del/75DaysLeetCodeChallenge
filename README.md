@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0605-can-place-flowers) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
