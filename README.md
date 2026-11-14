@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
 |  |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1732-find-the-highest-altitude) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3364-minimum-positive-sum-subarray](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting
 |  |
 | ------- |
