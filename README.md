@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0980-unique-paths-iii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0980-unique-paths-iii) |
 | [2352-equal-row-and-column-pairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 ## Hamiltonian Path
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
+| [0200-number-of-islands](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [1345-jump-game-iv](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1345-jump-game-iv) |
 ## Bidirectional Search
 |  |
@@ -416,4 +419,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
