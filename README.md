@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 ## String Matching
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2352-equal-row-and-column-pairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
