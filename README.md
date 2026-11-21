@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2352-equal-row-and-column-pairs) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
 | [3693-climbing-stairs-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Two Pointers
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
 ## Linked List
 |  |
