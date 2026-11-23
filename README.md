@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1657-determine-if-two-strings-are-close) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
+| [1143-longest-common-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3693-climbing-stairs-ii) |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
