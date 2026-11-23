@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0443-string-compression) |
+| [0516-longest-palindromic-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0771-jewels-and-stones](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0784-letter-case-permutation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0403-frog-jump) |
+| [0516-longest-palindromic-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/pritha1489pal-del/75DaysLeetCodeChallenge/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
